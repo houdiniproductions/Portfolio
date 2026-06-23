@@ -368,14 +368,14 @@ body {
                       background-blend-mode: overlay;
                       background-repeat: no-repeat; }
 
-                      .nosotros-img-container{ flex-basis: 50%;
+                     .nosotros-img-container { flex-basis: 50%;
                                                min-height: 500px;
                                                display: flex;
                                                justify-content: center;
                                                align-items: flex-end;
                                                font-size: 20px;
 
-                                               background-image: url("Nosotros/Daniela_foto.JPG");
+                                               background-image: url("Nosotros/Daniela_foto.jpg");
                                                background-size: cover;
                                                background-position: center; }
 
