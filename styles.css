@@ -368,7 +368,7 @@ body {
                       background-blend-mode: overlay;
                       background-repeat: no-repeat; }
 
-                     .nosotros-img-container { flex-basis: 50%;
+                      .nosotros-img-container{ flex-basis: 50%;
                                                min-height: 500px;
                                                display: flex;
                                                justify-content: center;
@@ -498,95 +498,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-/*-------------------------------------------------------------------------*/
-
-/* Realtor Style*/
-/*
-.realtor-container { width: 100%;
-                     padding: 120px 80px;
-                     display: flex;
-                     flex-direction: column;
-                     justify-content: center;
-                     align-items: center;
-                     position: relative;
-                     
-                     background-image: url("Realtor/Realtor Banner.jpg");
-                     background-repeat: no-repeat;
-                     background-size: cover; }
-
-                     .realtor-cover { background-color: white;
-                                      opacity: 0;
-                                      width: 100%;
-                                      height: 100%;
-                                      position: absolute;
-                                      z-index: 1; }
-
-                     .realtor-text { font-size: 48px;
-                                     font-family: "Cormorant","Poppins";
-                                     display: flex;
-                                     flex-direction: column;
-                                     justify-content: center;
-                                     align-items: center;
-                                     margin-bottom: 40px;
-                                     border-bottom: 2px solid #2a2516;
-                                     padding: 20px 0px;
-
-                                     position: relative;
-                                     z-index: 2; }
-
-                                      .realtor-tittle { font-size: 1em;
-                                                        color: #695c37;
-                                                        text-align: center;
-                                                        font-stretch: bold; }
-
-                                      .realtor-price { font-size: .4em;
-                                                       color: #695c37;
-                                                       text-align: center;
-                                                       font-family: "Poppins"; }
-
-
-                     .realtor-videos-container { width: 100%;
-                                                 display: flex;
-                                                 justify-content: center;
-                                                 gap: 60px;
-                                                 position: relative;
-                                                 z-index: 2; }
-
-                                                 .realtor-video {  width: 220px;
-                                                                   height: 400px;
-                                                                   object-fit: cover;
-                                                                   border-radius: 10px;
-                                                                   border: 2px solid #000; }
-
-
-@media (max-width: 873px) { .realtor-video { width: 200px;
-                                             height: max-content;  } }
-
-
-@media (max-width: 778px) { .realtor-videos-container { flex-direction: column;
-                                                        gap: 80px;
-                                                        justify-content: center;
-                                                        align-items: center;  }
-                             .realtor-video { width: 50%;
-                                              height: max-content; } }
-
-@media (max-width: 622px) { .realtor-video { width: 80%; } }
-@media (max-width: 462px) { .realtor-video { width: 90%; } }
-
-
-
-*/
 
 
 
